@@ -11,6 +11,6 @@ Required components will be needed to recreate this project :
 - 1 * 10k ohm Potentiometer
 - Few Jumper Wires
 
-Youtube Video -> https://www.youtube.com/watch?v=IqkZkRxoEp8
+Youtube Video  -> https://www.youtube.com/watch?v=IqkZkRxoEp8
 
 3D Print Files -> https://makerworld.com/en/models/2063865-display-turntable-motorised
